@@ -1,0 +1,11 @@
+e:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\bin\Debug\net10.0\Core.deps.json
+E:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\bin\Debug\net10.0\Core.dll
+E:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\bin\Debug\net10.0\Core.pdb
+E:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\obj\Debug\net10.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\obj\Debug\net10.0\Core.AssemblyInfoInputs.cache
+E:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\obj\Debug\net10.0\Core.AssemblyInfo.cs
+E:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\obj\Debug\net10.0\Core.csproj.CoreCompileInputs.cache
+E:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\obj\Debug\net10.0\Core.dll
+E:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\obj\Debug\net10.0\refint\Core.dll
+E:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\obj\Debug\net10.0\Core.pdb
+e:\.NET PROJECTS\udemy project\Skynet\Skynet\Core\obj\Debug\net10.0\ref\Core.dll
